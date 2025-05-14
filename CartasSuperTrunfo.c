@@ -76,7 +76,7 @@ int main() {
 
     printf("\n");
 
-    // Exibição da Carta 1
+    // Exibição da Carta
     printf("Carta 1:\n");
     printf("Estado: %c\n", carta1.estado);
     printf("Código: %s\n", carta1.codigo);
